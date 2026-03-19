@@ -9,3 +9,4 @@
  <div> 
   <a href="https://instagram.com/th._gzin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:iagosilva.ptc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/ee45ada3-3b26-4725-857d-bfb9e66cb9a1" />
