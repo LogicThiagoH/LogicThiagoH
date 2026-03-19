@@ -1,5 +1,5 @@
 ## Olá 👋
-
+ <img align="center" alt="Thiago-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <!--
 **LogicThiagoH/LogicThiagoH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
